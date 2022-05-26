@@ -8,3 +8,7 @@ What did I do:
     - Added "alt=speech to text" to images and double checked with a speech-to-text extension to make sure it worked.
         (note: speech-to-text extension keeps saying "section" at the end of every paragraph, not sure why?)
     - Adjusted CSS to match tags / classes in HTML
+    
+    Live page:
+    
+    https://mrcaseyrobison.github.io/1.Semantics-Accessibility/
